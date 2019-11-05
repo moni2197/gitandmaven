@@ -6,7 +6,8 @@ public class Welcome {
 	 static int i;
 		public static void main(String[] args) {
 			System.out.println("Java starts...");
-		
+			System.out.println("This is edited");
+			System.out.println("Java Added");
 
 			int x=10;
 			if(x==5)
